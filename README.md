@@ -4,10 +4,8 @@
 A Laravel-based web application for managing scholarship applications. Built using Laravel, MySQL, and Tailwind CSS. Developed to fulfill a junior web developer certification competency test.
 
 **Features:**
-* User registration and authentication
-* Comprehensive application form
-* Admin dashboard for managing applications
-* Email verification
+* Scholarship application page
+* Application Result page
 * Responsive design
 
 **Technologies Used:**

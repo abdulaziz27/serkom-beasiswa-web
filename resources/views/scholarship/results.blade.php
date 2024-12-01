@@ -84,8 +84,10 @@
         <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
         <script>
             document.addEventListener('DOMContentLoaded', function() {
+                // Data dari controller
                 const data = @json($chartData);
 
+                // Konfigurasi chart
                 new Chart(document.getElementById('scholarshipChart'), {
                     type: 'pie',
                     data: {
